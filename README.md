@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING / 3D-STYLE TEXT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=60&lines=Turning+everyday+moments+into+viral+stories+%F0%9F%8E%AC;Reels+%7C+Storytelling+%7C+Growth+Strategy;Building+in+public+%E2%80%94+one+frame%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&height=60&lines=Turning+everyday+moments+into+viral+stories+%F0%9F%8E%AC;Reels+%7C+Storytelling+%7C+Growth+Strategy;Flutter+%7C+MERN+%7C+Android+%7C+Building+in+public" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -56,9 +56,9 @@ fun_fact: "I script emotional hooks the same way I debug code — find the one l
 <td width="50%" valign="top">
 
 **🛠️ Tech Side**
+- Building Android apps with **Flutter** & Android Studio
+- Full-stack projects using the **MERN** stack (MongoDB, Express, React, Node)
 - Building small tools to analyze post performance
-- Automating parts of the content pipeline
-- Learning web development & scripting
 - Documenting the playbook as I iterate
 
 </td>
@@ -71,13 +71,18 @@ fun_fact: "I script emotional hooks the same way I debug code — find the one l
 
 <div align="center">
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 </div>
 
