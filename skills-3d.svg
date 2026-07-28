@@ -1,0 +1,97 @@
+<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" font-family="Fira Code, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#1a1a3d"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="topFace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5ffbf1"/>
+      <stop offset="100%" stop-color="#00F5FF"/>
+    </linearGradient>
+    <linearGradient id="sideFace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00b6c2"/>
+      <stop offset="100%" stop-color="#007e8a"/>
+    </linearGradient>
+    <linearGradient id="frontFace" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00d9e6"/>
+      <stop offset="100%" stop-color="#0090a0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" fill="url(#bg)"/>
+
+  <text x="450" y="45" text-anchor="middle" fill="#00F5FF" font-size="24" font-weight="bold" filter="url(#glow)">SKILL MATRIX — 3D VIEW</text>
+
+  <!-- isometric grid floor -->
+  <g opacity="0.15" stroke="#00F5FF" stroke-width="1">
+    <line x1="80" y1="420" x2="820" y2="420"/>
+    <line x1="80" y1="420" x2="150" y2="380"/>
+    <line x1="820" y1="420" x2="750" y2="380"/>
+    <line x1="150" y1="380" x2="750" y2="380"/>
+  </g>
+
+  <!-- Bar generator function simulated manually for 6 skills -->
+  <!-- Each bar: front face (rect), top face (parallelogram), side face (parallelogram) -->
+
+  <!-- Flutter 92% -->
+  <g transform="translate(90,0)">
+    <polygon points="0,420 40,400 40,150 0,170" fill="url(#sideFace)"/>
+    <rect x="0" y="170" width="80" height="250" fill="url(#frontFace)"/>
+    <polygon points="0,170 40,150 120,150 80,170" fill="url(#topFace)"/>
+    <text x="40" y="140" text-anchor="middle" fill="#ffffff" font-size="14" font-weight="bold">92%</text>
+    <text x="40" y="450" text-anchor="middle" fill="#c9d1d9" font-size="13">Flutter</text>
+  </g>
+
+  <!-- React/MERN 88% -->
+  <g transform="translate(210,0)">
+    <polygon points="0,420 40,400 40,175 0,195" fill="url(#sideFace)"/>
+    <rect x="0" y="195" width="80" height="225" fill="url(#frontFace)"/>
+    <polygon points="0,195 40,175 120,175 80,195" fill="url(#topFace)"/>
+    <text x="40" y="165" text-anchor="middle" fill="#ffffff" font-size="14" font-weight="bold">88%</text>
+    <text x="40" y="450" text-anchor="middle" fill="#c9d1d9" font-size="13">MERN</text>
+  </g>
+
+  <!-- Node.js 85% -->
+  <g transform="translate(330,0)">
+    <polygon points="0,420 40,400 40,190 0,210" fill="url(#sideFace)"/>
+    <rect x="0" y="210" width="80" height="210" fill="url(#frontFace)"/>
+    <polygon points="0,210 40,190 120,190 80,210" fill="url(#topFace)"/>
+    <text x="40" y="180" text-anchor="middle" fill="#ffffff" font-size="14" font-weight="bold">85%</text>
+    <text x="40" y="450" text-anchor="middle" fill="#c9d1d9" font-size="13">Node.js</text>
+  </g>
+
+  <!-- Video Editing 90% -->
+  <g transform="translate(450,0)">
+    <polygon points="0,420 40,400 40,160 0,180" fill="url(#sideFace)"/>
+    <rect x="0" y="180" width="80" height="240" fill="url(#frontFace)"/>
+    <polygon points="0,180 40,160 120,160 80,180" fill="url(#topFace)"/>
+    <text x="40" y="150" text-anchor="middle" fill="#ffffff" font-size="14" font-weight="bold">90%</text>
+    <text x="40" y="450" text-anchor="middle" fill="#c9d1d9" font-size="13">Video Edit</text>
+  </g>
+
+  <!-- UI/Graphic Design 80% -->
+  <g transform="translate(570,0)">
+    <polygon points="0,420 40,400 40,220 0,240" fill="url(#sideFace)"/>
+    <rect x="0" y="240" width="80" height="180" fill="url(#frontFace)"/>
+    <polygon points="0,240 40,220 120,220 80,240" fill="url(#topFace)"/>
+    <text x="40" y="210" text-anchor="middle" fill="#ffffff" font-size="14" font-weight="bold">80%</text>
+    <text x="40" y="450" text-anchor="middle" fill="#c9d1d9" font-size="13">UI Design</text>
+  </g>
+
+  <!-- DSA / Java 78% -->
+  <g transform="translate(690,0)">
+    <polygon points="0,420 40,400 40,232 0,252" fill="url(#sideFace)"/>
+    <rect x="0" y="252" width="80" height="168" fill="url(#frontFace)"/>
+    <polygon points="0,252 40,232 120,232 80,252" fill="url(#topFace)"/>
+    <text x="40" y="222" text-anchor="middle" fill="#ffffff" font-size="14" font-weight="bold">78%</text>
+    <text x="40" y="450" text-anchor="middle" fill="#c9d1d9" font-size="13">DSA (Java)</text>
+  </g>
+</svg>
