@@ -34,6 +34,28 @@
 
 ---
 
+## 📸 About Me
+
+<table>
+<tr>
+<td width="30%" align="center">
+<img src="assets/pradhum.png" width="180" style="border-radius:50%;" alt="Pradhum Mandil"/>
+</td>
+<td width="70%" valign="top">
+
+**Pradhum Mandil** — Full-stack & Flutter developer, freelancer, and founder of **Adihat**. I also create storytelling-style Instagram Reels for a young Indian audience under **@heymandil__**, and co-run the **India Story Project** with Mayank Sahu.
+
+By day: shipping Adihat's 8-portal healthcare ecosystem and freelance apps/websites.
+By night: scripting reels, editing in CapCut/DaVinci, and grinding DSA in Java.
+
+</td>
+</tr>
+</table>
+
+<sub>Commit your real photo to <code>assets/pradhum.png</code> in the <code>pradhummandil/pradhummandil</code> repo for this to render.</sub>
+
+---
+
 ## 🧬 `whoami`
 
 ```yaml
@@ -58,6 +80,22 @@ fun_fact: "I script emotional hooks the same way I debug code — find the one l
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=1000&color=FF00FF&center=true&vCenter=true&width=650&lines=Like+rate%3A+high+%F0%9F%94%A5+Comment+rate%3A+leveling+up+%F0%9F%93%88" />
 </div>
+
+---
+
+## 🎬 Featured Reels (NEW)
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| [![Reel 1](https://img.shields.io/badge/▶-Watch_Reel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heymandil__) | [![Reel 2](https://img.shields.io/badge/▶-Watch_Reel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heymandil__) | [![Reel 3](https://img.shields.io/badge/▶-Watch_Reel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heymandil__) |
+
+**[@heymandil__](https://instagram.com/heymandil__)** — storytelling reels, relatable & motivational content for a young Indian audience
+
+</div>
+
+<sub>GitHub can't autoplay video in READMEs, so these are click-through cards. Swap each link for your specific reel URL, and optionally replace the badge image with an actual thumbnail frame from the reel (screenshot it and save to <code>assets/reel-1.png</code> etc., then use a normal <code>&lt;img&gt;</code> tag linking out with <code>&lt;a href=...&gt;</code>).</sub>
 
 ---
 
@@ -132,7 +170,7 @@ fun_fact: "I script emotional hooks the same way I debug code — find the one l
 
 ---
 
-## 📈 3D Skill Matrix (NEW)
+## 📈 3D Skill Matrix
 
 <div align="center">
 <img src="assets/skills-3d.svg" width="85%" alt="3D isometric skill graph" />
@@ -142,7 +180,7 @@ fun_fact: "I script emotional hooks the same way I debug code — find the one l
 
 ---
 
-## 🔄 How I Work — Content × Code Pipeline (NEW)
+## 🔄 How I Work — Content × Code Pipeline
 
 ```mermaid
 flowchart LR
@@ -167,7 +205,7 @@ flowchart LR
 
 ---
 
-## 🌌 3D Contribution Graph (NEW)
+## 🌌 3D Contribution Graph
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/pradhummandil/pradhummandil/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution graph" />
@@ -177,7 +215,7 @@ flowchart LR
 
 ---
 
-## ⌨️ Live From My Desk (NEW)
+## ⌨️ Live From My Desk
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="48" title="VS Code"/>
@@ -187,7 +225,7 @@ flowchart LR
 
 ---
 
-## 🧠 DSA Journey (NEW)
+## 🧠 DSA Journey
 
 <div align="center">
 
@@ -238,7 +276,6 @@ flowchart LR
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradhummandil&theme=nightowl&background=0D1117&border=00F5FF&ring=FF00FF&fire=00F5FF" />
 </div>
 
-<!-- TROPHIES (NEW) -->
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=pradhummandil&theme=nightowl&no-frame=true&no-bg=false&margin-w=8&row=1" />
 </div>
@@ -259,7 +296,7 @@ flowchart LR
 
 ---
 
-## 💻 Random Dev Quote (NEW)
+## 💻 Random Dev Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -325,13 +362,22 @@ Commit the provided <code>assets/skills-3d.svg</code> file to the root of this r
 
 </details>
 
+<details>
+<summary><b>About Me photo & Featured Reels</b></summary>
+
+<br/>
+
+Commit your real photo as <code>assets/pradhum.png</code>. For Featured Reels, replace the three placeholder Instagram links with the direct URLs of your best-performing reels.
+
+</details>
+
 ---
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heymandil__)
 [![Portfolio](https://img.shields.io/badge/Freelance%20Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white)](https://pradhummandil.framer.ai/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradhummandil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradhum-m-b69b66318)
