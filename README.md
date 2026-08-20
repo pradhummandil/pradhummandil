@@ -39,7 +39,7 @@
 <table>
 <tr>
 <td width="30%" align="center">
-<img src="assets/pradhum.png" width="180" style="border-radius:50%;" alt="Pradhum Mandil"/>
+<img src="assets/pradhumresume.jpg" width="180" style="border-radius:50%;" alt="Pradhum Mandil"/>
 </td>
 <td width="70%" valign="top">
 
